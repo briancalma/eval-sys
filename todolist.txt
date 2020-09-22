@@ -1,0 +1,64 @@
+Admin	
+     > dean evaluation result
+
+
+bug list 
+	
+PER USER 
+
+sign up 
+	> College - ok
+	> Grad School - ok
+	> HS-sec - ok
+	> Hs-Prim - ok 
+	> elementary - ok 
+	> teacher - ok 
+
+
+Teacher - ok 
+	> edit account info -ok 
+	> evaluate peer
+	  	- add teacher validation - ok  
+	  	- 1 teacher only - ok 
+	  	- remove - ok 
+	  	- evaluate - ok 
+	  		- validations - ok 
+	  	- reevaluate - ok
+	  		- validations - ok 	
+
+	> evaluate self   - ok
+		- validations - ok 
+	> reevalaute self - ok 
+		- validations - ok 
+	
+
+DEAN 
+	> edit account info - ok 
+	> college dep teach - ok 
+	> evaluate peer
+		- teacher list - ok 
+		- add teacher validation - ok 
+	> evaluate self   - ok 
+		- validations - ok 
+	> reevaluate self  - ok 
+		- validations	- ok 
+
+	> faculty evaluation result - ok 
+	
+	> account process 
+		- remove username - ok
+		- validations 
+		- contact number 
+		- department code - ok 
+
+	> is_peer - ok 
+
+
+
+admin 
+	> add subject automation
+	> 	
+
+
+
+PER DEPARTMENT
